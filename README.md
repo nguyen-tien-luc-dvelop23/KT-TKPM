@@ -1,2 +1,1 @@
-# KT-TKPM
-KT-TKPM
+# KT-TKPM - Kiến Trúc Thiết Kế Phần Mềm
